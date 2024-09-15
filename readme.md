@@ -30,7 +30,7 @@
 	Was not named by us,but during project build ,vercel named it OLIVE
 
 
-##  Project C
+##  Project C (chatgpt vercel image)
 
 [https://chatgpt-vercel-image.vercel.app/](https://chatgpt-vercel-image.vercel.app/)
  
@@ -43,7 +43,7 @@
 
 	Was not derived from either olive or ivory. was build to add image generation capabilities 
 
-	Vercel gave a very wierd name, so it was named as Project C 
+	Vercel gave a very descriptive name, so it was named as Project C (after A,B comes C )
 
 
 ## SWITCH of base
