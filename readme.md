@@ -2,6 +2,98 @@
 
 ## Developement & Product 
 
+
+_____________________________________________________________________________________________________________
+
+
+## CATLON/KATLON projects
+
+## CATLON
+
+[https://catlon.kivtechs.cloud/] (https://catlon.kivtechs.cloud/)
+
+	PWA(Progressive Web APP) CATLON  which is currenlty the face of our KIVTECHS project 
+	Its based on the internal workings of IVORY & OLIVE 
+	has memeory,prompt, Become as a character feature ,treshold 
+
+
+## KATLON 
+
+[https://katlon.kivtechs.cloud/] (https://katlon.kivtechs.cloud/)
+
+	PWA(progressive Web APP ) and the upgrade of CATLON , also the face of out kivtechs project 
+	MASK was added , proper outfut format as text or json 
+	Fully working in Mobile devices and can be installaled as an APP 
+
+
+## CHATSY (KATLON 1.2 )
+
+[https://chsy.vercel.app/#/](https://chsy.vercel.app/#/)
+
+	Upgraded form of KATLON 
+	Will be updated to KATLON  once all tests passes 
+	 Fully working in Mobile devices and can be installaled as an APP 
+
+
+  | Model             | Status  | Mapped |
+|-------------------|---------|--------|
+| chat-gpt-40       | Active  | *      |
+| chat-gpt-3.5      | Passive | None   |
+| chat-gpt-3.5-turbo| Passive | None   |
+| chat-gpt-4        | Passive | None   |
+| chat-gpt-4-0      | Active  | None   |
+| chat-gpt-4-0-mini | Active  | *      |
+| chat-gpt-ada      | Passive | None   |
+| chat-gpt-0        | Passive | None   |
+| gemini            | Passive | None   |
+| claude            | Passive | None   |
+
+### Additional Notes:
+
+- **Ernie, Daoubao, etc.**: Utilized for their free access on multiple Chinese smartphones like Xiaomi, Realme, and OPPO. 
+- These models are currently available on the devices but will be replaced with others in the final version.
+
+
+
+
+ 
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+## IS in works 
+
+## MIRA (Multifaceted Image Rendering Assistant)
+
+	Image generation using DALLE 3,CLAUDE,ANTROMOPHIC and other models 
+	has been in works 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+## UPCOMMING 
+
+
+## SAMIRA (Supercharged Advanced Multifaceted Image Rendering Architect)
+
+	Upgraded form of MIRA with its own dedicted memory,storage 
+
+
+
+## KATLON 2 
+	
+	Upgraded form of KATLON with support for 3,3.5,4,4-0,4-0 mini , LLAMA 2, LLAMA 1, GEMINI , Google DeepMind's , CLAUDE 
+
+
+	
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##Previous Products (Might not be in active state )
+
+
 ## IVORY 
 
 [https://ivory.kivtechs.cloud/](https://ivory.kivtechs.cloud/)
@@ -72,65 +164,3 @@
 
 	AI based image generator 
 
-
-
-
-_____________________________________________________________________________________________________________
-
-
-## CAT LON project 
-
-## CATLON
-
-[https://catlon.kivtechs.cloud/] (https://catlon.kivtechs.cloud/)
-
-	PWA(Progressive Web APP) CATLON  which is currenlty the face of our KIVTECHS project 
-	Its based on the internal workings of IVORY & OLIVE 
-	has memeory,prompt, Become as a character feature ,treshold 
-
-
-## KATLON 
-
-[https://katlon.kivtechs.cloud/] (https://katlon.kivtechs.cloud/)
-
-	PWA(progressive Web APP ) and the upgrade of CATLON , also the face of out kivtechs project 
-	MASK was added , proper outfut format as text or json 
-	Fully working in Mobile devices and can be installaled as an APP 
-
-
-## CHATSY (KATLON 1.2 )
-
-	Upgraded form of KATLON 
-	Will be updated to KATLON 	
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------
-## IS in works 
-
-## MIRA (Multifaceted Image Rendering Assistant)
-
-	Image generation using DALLE 3,CLAUDE,ANTROMOPHIC and other models 
-	has been in works 
-
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## UPCOMMING 
-
-
-## SAMIRA (Supercharged Advanced Multifaceted Image Rendering Architect)
-
-	Upgraded form of MIRA with its own dedicted memory,storage 
-
-
-
-## KATLON 2 
-	
-	Upgraded form of KATLON with support for 3,3.5,4,4-0,4-0 mini , LLAMA 2, LLAMA 1, GEMINI , Google DeepMind's , CLAUDE 
-
-
-	
